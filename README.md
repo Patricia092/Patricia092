@@ -5,7 +5,7 @@
  </br>
  
 ## Sobre mim
-- 👩‍💻 Estudante de análise e desenvolvimento de sistemas, cursando o 3° semestre na Universidade de Mogi das Cruzes.
+- 👩‍💻 Estudante de análise e desenvolvimento de sistemas, cursando o 4° semestre na Universidade de Mogi das Cruzes.
 - 📍 De Campinas morando em Mogi das Cruzes - SP.
 - 💗 Amo esportes ao ar livre e viajar.
 
